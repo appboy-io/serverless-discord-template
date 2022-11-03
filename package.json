@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "glob": "^8.0.3"
+  },
+  "devDependencies": {
+    "serverless-plugin-common-excludes": "^4.0.0",
+    "serverless-plugin-include-dependencies": "^5.0.0"
+  }
+}
